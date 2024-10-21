@@ -1,7 +1,7 @@
 import { Dimensions, Pressable, StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 import Icon from "react-native-vector-icons/Ionicons"
-import { ScreenType } from '../constants/constants' 
+import { ScreenType } from '@/constants/constants' 
 
 
 const HomeScreen = ({ onExit }) => {
